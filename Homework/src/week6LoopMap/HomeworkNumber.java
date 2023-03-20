@@ -1,9 +1,10 @@
 package week6LoopMap;
-import java.util.Scanner;
+
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class HomeworkNumber {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList<Integer> arrayList = new ArrayList<>();
@@ -66,5 +67,5 @@ public class HomeworkNumber {
 		}
 		return smallest;
 	}
-	
+
 }

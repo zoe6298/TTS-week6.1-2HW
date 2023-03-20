@@ -5,5 +5,5 @@
  * @author chenli
  *
  */
-module week6LoopMap {
+module Homework {
 }

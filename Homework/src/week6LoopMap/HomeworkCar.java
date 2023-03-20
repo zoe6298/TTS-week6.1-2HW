@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class HomeworkCar {
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		HashMap<String, String> car = new HashMap<>();
@@ -26,5 +26,5 @@ public class HomeworkCar {
 		}
 
 	}
-
+	
 }
